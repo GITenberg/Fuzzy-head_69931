@@ -1,5 +1,8 @@
 _repo: Fuzzy-head_69931
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69931-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, Frank Belknap
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25911
     wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69931#Fuzzy-head
 gutenberg_issued: '2023-02-02'
 identifiers:
   gutenberg: '69931'
